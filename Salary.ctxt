@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Salary
+comment1.params=
+comment1.target=Salary()
+comment2.params=
+comment2.target=void\ setSalary()
+comment3.params=
+comment3.target=void\ setRating()
+comment4.params=
+comment4.target=void\ computeRaise()
+comment5.params=
+comment5.target=void\ printResults()
+numComments=6
